@@ -109,7 +109,7 @@ Response from the server is :Hello from the server
 
 ## 🎯 Learning Outcome
 
-This project helped build a foundational understanding of how servers work at a low level, which is essential before moving to higher-level frameworks like Spring Boot or Node.js.
+This project helped build a foundational understanding of how servers work at a low level.
 
 ---
 
